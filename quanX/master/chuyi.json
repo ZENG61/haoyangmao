@@ -10,6 +10,5 @@ https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中�
 https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
 		"20 5 10 * * *
 https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth_gain.js, tag=中青浏览赚, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
-
     ]
 }
